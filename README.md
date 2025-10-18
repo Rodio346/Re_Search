@@ -1,6 +1,6 @@
-# Perplexity Re-Searcher
+# Perplexity ReSearcher
 
-An AI-powered platform connecting world-class researchers with career-defining opportunities through intelligent matching powered by Perplexity AI.
+An AI-powered platform connecting world-class researchers with career-defining opportunities through intelligent matching powered by Perplexity AI - Search API and Grounded LLM.
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
@@ -9,7 +9,7 @@ An AI-powered platform connecting world-class researchers with career-defining o
 
 ## 🌟 Overview
 
-Perplexity Re-Searcher is a modern web application that revolutionizes academic recruitment by leveraging AI to match researchers with relevant opportunities. The platform uses Perplexity's advanced AI capabilities to analyze research papers, extract skills, and find the perfect alignment between researchers and job opportunities.
+Perplexity ReSearcher is a building the reasoning graph to revolutionise technical recruitment by helping people and organizations ask better questions to reason their way to better answers on research expertise that is being seeked. The platform uses Perplexity's advanced AI capabilities to analyze research papers, extract skills, and find the perfect alignment between researchers and research opportunities including jobs.
 
 ### Key Features
 
